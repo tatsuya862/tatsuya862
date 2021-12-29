@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Progate</title>
+    <link rel="stylesheet" href="stylesheet.css">
+</head>
+
+
+
+<body>
+    <header class="header">
+        <div class="header-logo">Progate</div>
+        <div class="header-list">
+            <ul>
+                <li>プログラミングとは</li>
+                <li>学べるレッスン</li>
+                <li>お問い合せ</li>
+            </ul>
+        </div>
+    </header>
+
+
+    <main class="main">
+        <div class="copy-container">
+            <h1>HELLO WORLD<span>.</span></h1>
+            <h2>プログラミングの世界へようこそ</h2>
+        </div>
+
+        <div class="contents">
+            <h3 class="section-title">学べるレッスン</h3>
+            <div class="contents-item">
+                <img src="https://s3-ap-northeast-1.amazonaws.com/progate/shared/images/lesson/html/study/html.svg">
+                <p>HTML & CSS</p>
+            </div>
+            <div class="contents-item">
+                <img src="https://s3-ap-northeast-1.amazonaws.com/progate/shared/images/lesson/html/study/php.svg">
+                <p>PHP</p>
+            </div>
+            <div class="contents-item">
+                <img src="https://s3-ap-northeast-1.amazonaws.com/progate/shared/images/lesson/html/study/ruby.svg">
+                <p>Ruby</p>
+            </div>
+            <div class="contents-item">
+                <img src="https://s3-ap-northeast-1.amazonaws.com/progate/shared/images/lesson/html/study/swift.svg">
+                <p>Swit</p>
+            </div>
+        </div>
+
+
+        <div class="contact-form">
+        </div>
+    </main>
+
+
+
+    <footer class="footer">
+        <div class="footer-logo">Progate</div>
+        <div class="footer-list">
+            <ul>
+                <li>会社概要</li>
+                <li>採用</li>
+                <li>お問い合わせ</li>
+            </ul>
+        </div>
+    </footer>
+</body>
+</html>
